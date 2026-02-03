@@ -1,0 +1,26 @@
+html, body {
+	background-color: aliceblue;
+}
+
+p {
+	font-size: 14px;
+	border: solid;
+	background-color: aliceblue;
+	margin:0px;
+	padding:10px;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+img {
+	width:50%;
+}
+
+#content {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+/* <link rel="stylesheet" href="style.css"> put this in html code in head section */
